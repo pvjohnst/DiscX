@@ -118,6 +118,8 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+# key gets
+key_get.py
 
 # Environments
 .env
